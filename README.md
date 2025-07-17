@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Adam
 
-<!--
-**Adam5263/Adam5263** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical generalist building toward a future in remote R&D.  
+Focused on data, automation, and creative dev (apps + games).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Current Focus
+- 🧰 Python & automation tools
+- 🎮 Game development with Godot
+- 📊 Building dashboards, workflows, integrations
+
+## 🎯 Personal Goals by 28
+- 💵 $150K/year income & $1K/month passive income
+- 🛠️ Ship games/apps that are fun or useful
+- ✈️ Work fully remotely & live globally
+- 💪 Train to complete a triathlon
+
+## 📂 My Projects
+Explore my work in...
+
+## 🔗 Connect
+- LinkedIn: [Coming soon]
+- Website: [Coming soon]
